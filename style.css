@@ -1,0 +1,171 @@
+
+/*HEADER___MENU*/
+
+.header{
+    background-color: #09a7e5;
+    height:50px;
+    line-height: 50px;
+}
+
+
+.header-logo img{
+    width:70px;   
+}
+
+.primery-menu ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 50px;
+    text-align: right;
+   
+}
+.primery-menu ul li a{
+  color:white;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+/*MIDDLE___SECTION*/
+
+.middle{
+    background-image: url(https://media.istockphoto.com/id/1251629816/photo/the-perfect-setting-to-complete-work.webp?b=1&s=170667a&w=0&k=20&c=e8mSv3z6PhT18EUmzgtdMCbQecYzhHoqu_ts8tFdN6c=);
+    height: 500px;
+    width: auto;
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+}
+
+
+
+.middle p{
+    color: rgb(254, 250, 250);
+    text-align: center;
+    margin-top: 150px;
+    font-size: 12px;
+    font-size: 20px;
+    background-color: rgb(1, 45, 30);
+    display: inline-block;
+    margin-left: 20%;
+}
+
+
+
+/*ABOUT___OUR____TEAM*/
+
+.about{
+    background-color:#bac1f3 ;
+    height: 600px;
+}
+
+.about h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  
+}
+
+.picture img{
+    height: 200px;
+    margin-left: 100px;
+}
+
+.picture h3{
+    margin-left: 120px;
+    font-size: 15px;
+    margin-top:5px;
+}
+
+.picture p{
+    margin-left:-100px;
+    font-size: 10px;
+    margin-top:5px; 
+    text-align: center;  
+}
+
+.picture h4{
+    text-align: center;
+    font-size:12px;
+    color: white;
+    padding: 8px 10px;
+    background-color:#337ab7 ;
+    width: 150px;
+    margin-left: 100px;
+    border-radius: 5px;
+
+}
+
+/* <!-- SERVICES --> */
+
+.service{
+    height: 600px;
+    background-color: #c2d4ea;
+}
+
+.image{
+    padding-top: 50px;
+}
+
+.image img{
+    height: 100px;
+    width: auto;
+   
+}
+
+.profile{
+    margin-left: -50px;
+    padding-top: 50px;
+}
+
+.service h1{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.about-me h1{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.title p{
+    text-align:left;
+    font-size: 10px;
+    margin-top: -200px;
+}
+
+/* <!-- CONTACT____US --> */
+
+.contact{
+    height:auto;
+}
+
+.contact h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.maps{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.form{
+    padding-top: 50px;
+    padding-bottom: 50px;  
+}
+
+/*FOOTER______*/
+
+.end{
+    background-color:#0a8ff5 ;
+   display: inline-block;
+   margin-top:20px;
+   height:80px;
+   padding-top: 20px;
+   width: 100%;
+   text-align: center;
+   color: white;
+
+}
